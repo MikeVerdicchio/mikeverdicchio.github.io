@@ -2310,7 +2310,7 @@ header .icon.circled {
     color: #fff;
     font-size: 3em;
     line-height: 1em;
-    font-family: cursive;
+    font-family: 'Palatino', 'URW Palladio L', serif;	
 }
 
 #header h1 a {
