@@ -2,10 +2,10 @@
   skills:
     - name: C, C++
       score: 2
-    - name: JavaScript / Node.js
-      score: 0
-    - name: Go
+    - name: JavaScript, TypeScript
       score: 1
+    - name: Go
+      score: 0
     - name: PHP
       score: 0
     - name: Python
@@ -17,18 +17,20 @@
       score: 0
     - name: Docker
       score: 2
-    - name: Embedded Programming
+    - name: Embedded Programming & FPGAs
       score: 1
-    - name: Relational Databases (Postgres)
+    - name: Relational Databases (Postgres, MySQL)
       score: 1
-    - name: NoSQL (ElasticSearch)
+    - name: NoSQL (ElasticSearch, Cassandra)
       score: 0
     - name: Version Control (Git)
       score: 2
     - name: Backend Web Development
       score: 2
+    - name: Frontend Web Development
+      score: 0
 
-- name: Engineering Programs
+- name: Engineering Software
   skills:
     - name: MathWorks MATLAB
       score: 1

@@ -1,11 +1,11 @@
 # Site settings
 title: Mike Verdicchio
-tagline: Currently learning Node.js and React
+tagline: Currently learning React and Cassandra
 email: mikeverdicchio@gmail.com
 description: >
-  Mike Verdicchio is a software engineer at Capital One
-  in NYC with a B.S. in Computer Engineering from the
-  University of Virginia.
+  Mike Verdicchio is a software engineer at Capital
+  One Shopping and a computer engineering grad of
+  the University of Virginia.
 baseurl: ""
 url: "https://mikeverdicchio.github.io/"
 
