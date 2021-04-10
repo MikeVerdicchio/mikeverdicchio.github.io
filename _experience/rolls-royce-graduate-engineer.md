@@ -5,7 +5,9 @@ company: Rolls-Royce
 position: Graduate Development Program Engineer
 start: 2017-07-10
 end: 2019-04-02
-picture: /images/experience/rolls-royce.jpg
+picture:
+  - /images/experience/rolls-royce.jpg
+  - /images/experience/rolls-royce-2.jpg
 ---
 
 After graduating from UVA, I moved to Indianapolis, Indiana to join Rolls-Royce in the Engineering Graduate Development Program (GDP). The GDP is a rotational engineering leadership program that combines the three stages of the engineering lifecycle: Define (requirements), Make (product), and Verify (solution) to build well-rounded engineers that understand the holistic view of the engineering process. Over my two years in the program, I worked with five different teams.
