@@ -8,6 +8,7 @@ __pycache__/
 env/
 
 # Jekyll
+.jekyll-cache
 .sass-cache/
 _site/
 
